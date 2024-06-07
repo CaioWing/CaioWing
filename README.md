@@ -3,28 +3,27 @@
    <img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=CaioWing" alt="CaioWing" />
 </h2>
 
-### ➕ More about me:
+### More about me:
 
 •  Undergrad Aeronautic Engineering at USP<br>
 •  Undergrad researcher in Evolutionary Algorithms and Drone Simulations<br>
-•  2023 Goals: Securing an internship at a Big Tech
+•  2024 Goals: Create something that you'll probably like in Rust
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/caio-wingeter-165034174/)!
+
 
 ### 🧰 Tech Stack:
 
 <p align="left">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  width="25" height="25"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="25" height="25"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
-</p>
-
-### 🗣️ Supported Languages:
-<p>
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg" alt="us" width="20" height="20"/> 
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/br.svg" alt="pt" width="20" height="20"/> 
+   <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
+   <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/>
+   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+   <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
+   <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+   <img src="https://skillicons.dev/icons?i=arch" alt="arch btw" width="40" height="40"/>
+   <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
+   <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
+   
 </p>
 
 <hr>
