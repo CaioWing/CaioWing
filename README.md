@@ -1,13 +1,8 @@
 <h2 align="left"> 
-   Hi there! I'm a curious Data Scientist!
+   Hi there! I'm a curious Engineer!
    <img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=CaioWing" alt="CaioWing" />
 </h2>
 
-### More about me:
-
-•  Undergrad Aeronautic Engineering at USP<br>
-•  Undergrad researcher in Evolutionary Algorithms and Drone Simulations<br>
-•  2024 Goals: Create something that you'll probably like in Rust
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/caio-wingeter-165034174/)!
 
